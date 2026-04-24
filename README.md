@@ -1,6 +1,6 @@
 # Stored XSS + MySQL PoC
 
-A minimal Flask + MySQL proof-of-concept demonstrating how user input is stored raw in a database and how the safety of that data depends entirely on how it is rendered — not how it is stored.
+A minimal Flask + MySQL proof-of-concept demonstrating how user input is stored raw in a database and how the safety of that data depends entirely on how it is rendered not how it is stored.
 
 Built for educational and demonstration purposes.
 
